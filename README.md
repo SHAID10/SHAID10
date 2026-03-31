@@ -10,12 +10,12 @@
 - Languages: C, JavaScript, Python
 - Tools: Git, Linux, VS Code
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## PORTFOLIO
+![Check this out](masadportfolio.vercel.app)
 
 ## 📫 How to reach me
-- Email: your@email.com
-- LinkedIn: [your link]
+- Email: shaidmasad@gmail.com
+- LinkedIn: www.linkedin.com/in/masad-shaid
 
 ## ⚡ Fun fact
 I love building projects and solving problems!
