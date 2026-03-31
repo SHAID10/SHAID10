@@ -11,7 +11,7 @@
 - Tools: Git, Linux, VS Code
 
 ## PORTFOLIO
-![my_portfolio_](masadportfolio.vercel.app)
+masadportfolio.vercel.app
 
 ## 📫 How to reach me
 - Email: shaidmasad@gmail.com
