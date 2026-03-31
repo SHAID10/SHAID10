@@ -133,7 +133,7 @@
 
 ##  😁 Want to know more about me ?
 
-([portfolio](https://masadportfolio.vercel.app/))
+[CHECK out my portfolio](https://masadportfolio.vercel.app/)
 
 <!-- Only people who inspect or randomly click will find this 😏 -->
 
