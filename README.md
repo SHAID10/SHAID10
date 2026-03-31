@@ -89,7 +89,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAID10&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_10&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAID10&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAID10&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -105,12 +105,16 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="mailto:your@email.com">
+<a href="mailto:shaidmasad@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://linkedin.com/in/yourprofile">
+<a href="www.linkedin.com/in/masad-shaid">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="www.linkedin.com/in/masad-shaid">
+<img src="https://img.shields.io/badge/Whatsapp?style=for-the-badge&logo=Whatsapp"/>
 </a>
 </p>
 
