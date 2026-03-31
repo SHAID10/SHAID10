@@ -10,7 +10,7 @@
 ## 🚀 About Me
 - 🎓 Computer Science Student  
 - 💻 Passionate about **IT works, Web Development, Gaming**  
-- 🎯 Goal: Become a **Become a legend**  
+- 🎯 Goal: **Become a legend**  
 - ⚡ I love building real-world projects  
 
 
