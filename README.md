@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;C+%7C+Linux+%7C+Web+Developer;Building+Projects+That+Matter;Always+Learning+🚀" />
 </p>
 
----
+
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
@@ -13,7 +13,6 @@
 - 🎯 Goal: Become a **Become a legend**  
 - ⚡ I love building real-world projects  
 
----
 
 ## ⚡ My Tech stacks 
 
@@ -65,7 +64,6 @@
 
 </p>
 
----
 
 ## 🛡️ My Domains
 
@@ -83,7 +81,7 @@
 </tr>
 </table>
 
----
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -125,7 +123,7 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/SHAID10">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
