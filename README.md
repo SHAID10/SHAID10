@@ -7,11 +7,11 @@
 - 🎯 Goal: Become a software engineer
 
 ## 🛠️ Tech Stack
-- Languages: C, JavaScript, Python
-- Tools: Git, Linux, VS Code
+- Languages: C, JavaScript, Python, C++
+- Tools: Git, Linux, VS Code, Antigravity
 
 ## PORTFOLIO
-masadportfolio.vercel.app
+ masadportfolio.vercel.app
 
 ## 📫 How to reach me
 - Email: shaidmasad@gmail.com
