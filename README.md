@@ -86,7 +86,6 @@
 ---
 
 ## 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHAID10&show_icons=true&theme=tokyonight"/>
   <br/>
