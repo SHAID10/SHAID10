@@ -1,5 +1,5 @@
 <!-- 🔥 ANIMATED HEADER -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm MASAD SHAID</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;C+%7C+Linux+%7C+Web+Developer;Building+Projects+That+Matter;Always+Learning+🚀" />
@@ -9,14 +9,13 @@
 
 ## 🚀 About Me
 - 🎓 Computer Science Student  
-- 💻 Passionate about **C, Linux, and Web Development**  
-- 🧠 Currently learning: Data Structures & Systems  
-- 🎯 Goal: Become a **Software Engineer**  
+- 💻 Passionate about **IT works, Web Development, Gaming**  
+- 🎯 Goal: Become a **Become a legend**  
 - ⚡ I love building real-world projects  
 
 ---
 
-## ⚡ What I Build With
+## ⚡ My Tech stacks 
 
 <p align="center">
 
@@ -89,9 +88,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SHAID10&show_icons=true&theme=tokyonight"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_10&theme=tokyonight"/>
 </p>
 
 ---
