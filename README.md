@@ -92,15 +92,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHAID10&theme=tokyonight"/>
 </p>
 
----
 
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHAID10&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🔗 Connect With Me
 
@@ -141,9 +133,9 @@
 
 ---
 
-## 🕵️ Hidden Section (👀)
+##  😁 Portfolio 
 
-[‎](https://your-secret-portfolio.com)
+(https://your-secret-portfolio.com)
 
 <!-- Only people who inspect or randomly click will find this 😏 -->
 
