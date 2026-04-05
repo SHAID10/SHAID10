@@ -140,4 +140,5 @@
 ---
 
 ## ⚡ Fun Fact
-I use Linux daily 🐧 and love low-level programming 💻
+I use Linux daily 🐧, love programming 💻 and Gaming
+
