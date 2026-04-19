@@ -11,7 +11,8 @@
 - 🎓 Computer Science Student  
 - 💻 Passionate about **IT works, Web Development, Gaming**  
 - 🎯 Goal: **Become a legend**  
-- ⚡ I love building real-world projects  
+- ⚡ I love building real-world projects
+- if you know you know
 
 
 ## ⚡ My Tech stacks 
